@@ -1,9 +1,0 @@
-argcomplete @ file:///private/tmp/python-argcomplete-20231211-42231-mc1bv2/argcomplete-3.2.1
-cffi @ file:///private/tmp/cffi-20231014-5567-1hyue8f/cffi-1.16.0
-click @ file:///private/tmp/python-click-20231113-5463-1enrr1r/click-8.1.7
-cryptography @ file:///private/tmp/python-cryptography-20231127-6248-fisajh/cryptography-41.0.7
-Markdown @ file:///private/tmp/python-markdown-20240110-4739-mp2a5f/Markdown-3.5.2
-pathspec @ file:///private/tmp/python-pathspec-20231212-4946-k7fih8/pathspec-0.12.1
-pycparser @ file:///private/tmp/pycparser-20231013-5787-1anpge2/pycparser-2.21
-setuptools @ file:///private/tmp/python-setuptools-20231224-4578-w6ooxe/setuptools-69.0.3
-wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.1/libexec/wheel-0.42.0-py3-none-any.whl#sha256=8884962178bd84039224abbf637217acecf85cd6fc7344d80a550755440e7226
