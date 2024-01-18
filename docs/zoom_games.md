@@ -7,4 +7,3 @@
 - [Gartic Phone](https://garticphone.com/de)  
 - [Papas Quiz](https://papas.tv/)
 - [Secret Hitler](https://secret-hitler.com/)
-

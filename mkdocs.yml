@@ -1,5 +1,16 @@
-site_name: Nützliches & weiteres
+site_name: Nützliches & weiteres von Jonas
 theme: material
 language: de
 site_author: Jonas Metzger
 copyright: BSD 3-Clause License
+site_url: https://jonasmetzger2000.github.io
+plugins:
+  - social
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jonasmetzger2000
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/metzgerjxnas/
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@JonasMetzger
