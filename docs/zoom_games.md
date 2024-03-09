@@ -7,3 +7,5 @@
 - [Gartic Phone](https://garticphone.com/de)  
 - [Papas Quiz](https://papas.tv/)
 - [Secret Hitler](https://secret-hitler.com/)
+- [Guess The Price](https://guesstheprice.net/)
+- [Mafia (Similar to Werewolf)](https://mafiathegame.benrobinson.dev/)
